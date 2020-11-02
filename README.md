@@ -1,4 +1,4 @@
-# esp8266-phishing-tool
+# ESP-8266 Phishing Tool
 Basic phishing tool for your ESP-8266 which is fully customizable.
 # What can you customize
 * Name Of WIFI
